@@ -1,0 +1,3 @@
+# Example
+
+![Photo](BlackholeSimulationExample.jpg)
