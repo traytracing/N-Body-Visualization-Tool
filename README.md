@@ -1,3 +1,3 @@
-# Example
+# Showcase
 
 ![Photo](BlackholeSimulationExample.jpg)
